@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/KuroiKitsu/discord-cagliostro"
+	"github.com/recnaleerf/discord-cagliostro"
 )
 
 const (
